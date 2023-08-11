@@ -1,0 +1,53 @@
+body
+{
+    background-color: #CEE6F3;
+}
+
+h2
+{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #DFA878;
+    color: #BA704F;
+    font-size: 60px;
+    font-weight: bold;
+    width: 1000px;
+    border-radius: 20px;
+    border: #BA704F 7px solid;
+}
+
+canvas
+{
+    border: #BA704F 7px solid;
+    border-radius: 20px;
+}
+
+#Start
+{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #DFA878;
+    color: #BA704F;
+    font-size: 30px;
+    font-weight: bold;
+    width: 150px;
+    height: 55px;
+    border-radius: 20px;
+    border: #BA704F 7px solid; 
+    position: absolute;
+    right: 265px;
+}
+
+#Input
+{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #DFA878;
+    color: #BA704F;
+    font-size: 25px;
+    font-weight: bold;
+    width: 550px;
+    height: 55px;
+    border-radius: 20px;
+    border: #BA704F 7px solid; 
+    position: absolute;
+    left: 280px;
+    top: 110;
+}
